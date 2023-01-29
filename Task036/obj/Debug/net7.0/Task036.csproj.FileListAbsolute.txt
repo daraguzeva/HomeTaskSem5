@@ -1,0 +1,15 @@
+/Users/daraguzeva/Desktop/HomeTaskSem5/Task036/bin/Debug/net7.0/Task036
+/Users/daraguzeva/Desktop/HomeTaskSem5/Task036/bin/Debug/net7.0/Task036.deps.json
+/Users/daraguzeva/Desktop/HomeTaskSem5/Task036/bin/Debug/net7.0/Task036.runtimeconfig.json
+/Users/daraguzeva/Desktop/HomeTaskSem5/Task036/bin/Debug/net7.0/Task036.dll
+/Users/daraguzeva/Desktop/HomeTaskSem5/Task036/bin/Debug/net7.0/Task036.pdb
+/Users/daraguzeva/Desktop/HomeTaskSem5/Task036/obj/Debug/net7.0/Task036.csproj.AssemblyReference.cache
+/Users/daraguzeva/Desktop/HomeTaskSem5/Task036/obj/Debug/net7.0/Task036.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daraguzeva/Desktop/HomeTaskSem5/Task036/obj/Debug/net7.0/Task036.AssemblyInfoInputs.cache
+/Users/daraguzeva/Desktop/HomeTaskSem5/Task036/obj/Debug/net7.0/Task036.AssemblyInfo.cs
+/Users/daraguzeva/Desktop/HomeTaskSem5/Task036/obj/Debug/net7.0/Task036.csproj.CoreCompileInputs.cache
+/Users/daraguzeva/Desktop/HomeTaskSem5/Task036/obj/Debug/net7.0/Task036.dll
+/Users/daraguzeva/Desktop/HomeTaskSem5/Task036/obj/Debug/net7.0/refint/Task036.dll
+/Users/daraguzeva/Desktop/HomeTaskSem5/Task036/obj/Debug/net7.0/Task036.pdb
+/Users/daraguzeva/Desktop/HomeTaskSem5/Task036/obj/Debug/net7.0/Task036.genruntimeconfig.cache
+/Users/daraguzeva/Desktop/HomeTaskSem5/Task036/obj/Debug/net7.0/ref/Task036.dll
